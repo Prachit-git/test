@@ -1,1 +1,1 @@
-console.log("hello form main")
+console.log("hello")
